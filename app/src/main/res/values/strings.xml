@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Data Activity</string>
+    <string name="data_received">oke</string>
+    <string name="move_with_object" />
+    <string name="object_received" />
+    <string name="dial_number">Dial Number</string>
+    <string name="pilih_angka">pilih angka</string>
+    <string name="rb_50">50</string>
+    <string name="rb_100">100</string>
+    <string name="rb_150">150</string>
+    <string name="rb_200">200</string>
+    <string name="pilih">pilih</string>
+    <string name="move_for_result">pindah aktivity result</string>
+    <string name="hasil">hasil</string>
+    <string name="nama_lengkap">masukan nama</string>
+</resources>
